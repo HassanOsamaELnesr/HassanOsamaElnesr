@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m Hassan Osama Elnesr, a Web Developer and Java/Spring Boot Backend Developer with a strong background in full-stack development. I build and manage professional websites, e-commerce stores, and complete web systems using technologies like Angular, Node.js, Flutter, WordPress, Shopify, and More.<br><br>I’ve worked with companies such as The Plus Development and Andersen, developing high-performance, responsive, and optimized websites using various CMS tools and modern page builders.<br><br>I also run my own web development agency, Elevate, where I deliver clean, elegant, and conversion-focused websites tailored to each client’s business goals.
+
 Web Development Portfolio: https://elevate.gt.tc
 
 
